@@ -1,0 +1,20 @@
+[
+	'OB_stand init',
+	'sing with me',
+	'diagonal left',
+	'OB_sit relax',
+	'rotation foot left leg',
+	'rotation handgun',
+	'OB_hello',
+	'workout',
+	'sing with me',
+	'rotation foot right leg',
+	'workout',
+	'sing with me',
+	'move forward',
+	'OB_stand zero',
+	'OB_stand',
+	'OB_wipe forehead',
+	'OB_sit',
+	'OB_crouch'
+]

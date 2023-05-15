@@ -1,0 +1,21 @@
+[
+	'OB_stand init',
+	'diagonal left',
+	'superman',
+	'rotation foot right leg',
+	'move backward',
+	'OB_stand',
+	'sing with me',
+	'rotation foot right leg',
+	'OB_hello',
+	'rotation foot left leg',
+	'OB_stand zero',
+	'diagonal right',
+	'OB_wipe forehead',
+	'sing with me',	
+	'superman',
+	'sing with me',
+	'OB_sit',
+	'OB_sit relax',
+	'OB_crouch'
+]

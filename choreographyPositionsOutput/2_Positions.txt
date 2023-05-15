@@ -1,0 +1,19 @@
+[
+	'OB_stand init',
+	'union arms',
+	'sing with me',
+	'OB_stand zero',
+	'move backward',
+	'birthday dance',
+	'OB_hello',
+	'move backward',
+	'workout',
+	'OB_wipe forehead',
+	'sing with me',
+	'OB_sit relax',
+	'sing with me',
+	'union arms',
+	'OB_stand',
+	'OB_sit',
+	'OB_crouch'
+]
